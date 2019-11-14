@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/project7.dir/main.cpp.o CMakeFiles/project7.dir/Data.cpp.o CMakeFiles/project7.dir/Stack.cpp.o CMakeFiles/project7.dir/Queue.cpp.o CMakeFiles/project7.dir/SortedLinkedList.cpp.o  -o project7 
