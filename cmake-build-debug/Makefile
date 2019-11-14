@@ -150,6 +150,33 @@ Data.cpp.s:
 	$(MAKE) -f CMakeFiles/project7.dir/build.make CMakeFiles/project7.dir/Data.cpp.s
 .PHONY : Data.cpp.s
 
+LinkedList.o: LinkedList.cpp.o
+
+.PHONY : LinkedList.o
+
+# target to build an object file
+LinkedList.cpp.o:
+	$(MAKE) -f CMakeFiles/project7.dir/build.make CMakeFiles/project7.dir/LinkedList.cpp.o
+.PHONY : LinkedList.cpp.o
+
+LinkedList.i: LinkedList.cpp.i
+
+.PHONY : LinkedList.i
+
+# target to preprocess a source file
+LinkedList.cpp.i:
+	$(MAKE) -f CMakeFiles/project7.dir/build.make CMakeFiles/project7.dir/LinkedList.cpp.i
+.PHONY : LinkedList.cpp.i
+
+LinkedList.s: LinkedList.cpp.s
+
+.PHONY : LinkedList.s
+
+# target to generate assembly for a file
+LinkedList.cpp.s:
+	$(MAKE) -f CMakeFiles/project7.dir/build.make CMakeFiles/project7.dir/LinkedList.cpp.s
+.PHONY : LinkedList.cpp.s
+
 Queue.o: Queue.cpp.o
 
 .PHONY : Queue.o
@@ -270,6 +297,9 @@ help:
 	@echo "... Data.o"
 	@echo "... Data.i"
 	@echo "... Data.s"
+	@echo "... LinkedList.o"
+	@echo "... LinkedList.i"
+	@echo "... LinkedList.s"
 	@echo "... Queue.o"
 	@echo "... Queue.i"
 	@echo "... Queue.s"

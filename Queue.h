@@ -10,7 +10,7 @@ class Queue : public LinkedList {
 public:
     Queue();
     void enqueue_tail(Data D);
-    void dequeue_tail();
+    bool dequeue_head(ostream& out);
 private:
     Node* tail;
 };

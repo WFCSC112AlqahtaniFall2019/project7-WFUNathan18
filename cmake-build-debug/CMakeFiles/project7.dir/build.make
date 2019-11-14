@@ -70,9 +70,22 @@ CMakeFiles/project7.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/project7.dir/main.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Nathan/CLionProjects/project7-WFUNathan18/main.cpp -o CMakeFiles/project7.dir/main.cpp.s
 
+CMakeFiles/project7.dir/LinkedList.cpp.o: CMakeFiles/project7.dir/flags.make
+CMakeFiles/project7.dir/LinkedList.cpp.o: ../LinkedList.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Nathan/CLionProjects/project7-WFUNathan18/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/project7.dir/LinkedList.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/project7.dir/LinkedList.cpp.o -c /Users/Nathan/CLionProjects/project7-WFUNathan18/LinkedList.cpp
+
+CMakeFiles/project7.dir/LinkedList.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/project7.dir/LinkedList.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Nathan/CLionProjects/project7-WFUNathan18/LinkedList.cpp > CMakeFiles/project7.dir/LinkedList.cpp.i
+
+CMakeFiles/project7.dir/LinkedList.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/project7.dir/LinkedList.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Nathan/CLionProjects/project7-WFUNathan18/LinkedList.cpp -o CMakeFiles/project7.dir/LinkedList.cpp.s
+
 CMakeFiles/project7.dir/Data.cpp.o: CMakeFiles/project7.dir/flags.make
 CMakeFiles/project7.dir/Data.cpp.o: ../Data.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Nathan/CLionProjects/project7-WFUNathan18/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/project7.dir/Data.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Nathan/CLionProjects/project7-WFUNathan18/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/project7.dir/Data.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/project7.dir/Data.cpp.o -c /Users/Nathan/CLionProjects/project7-WFUNathan18/Data.cpp
 
 CMakeFiles/project7.dir/Data.cpp.i: cmake_force
@@ -85,7 +98,7 @@ CMakeFiles/project7.dir/Data.cpp.s: cmake_force
 
 CMakeFiles/project7.dir/Stack.cpp.o: CMakeFiles/project7.dir/flags.make
 CMakeFiles/project7.dir/Stack.cpp.o: ../Stack.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Nathan/CLionProjects/project7-WFUNathan18/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/project7.dir/Stack.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Nathan/CLionProjects/project7-WFUNathan18/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/project7.dir/Stack.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/project7.dir/Stack.cpp.o -c /Users/Nathan/CLionProjects/project7-WFUNathan18/Stack.cpp
 
 CMakeFiles/project7.dir/Stack.cpp.i: cmake_force
@@ -98,7 +111,7 @@ CMakeFiles/project7.dir/Stack.cpp.s: cmake_force
 
 CMakeFiles/project7.dir/Queue.cpp.o: CMakeFiles/project7.dir/flags.make
 CMakeFiles/project7.dir/Queue.cpp.o: ../Queue.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Nathan/CLionProjects/project7-WFUNathan18/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/project7.dir/Queue.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Nathan/CLionProjects/project7-WFUNathan18/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/project7.dir/Queue.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/project7.dir/Queue.cpp.o -c /Users/Nathan/CLionProjects/project7-WFUNathan18/Queue.cpp
 
 CMakeFiles/project7.dir/Queue.cpp.i: cmake_force
@@ -111,7 +124,7 @@ CMakeFiles/project7.dir/Queue.cpp.s: cmake_force
 
 CMakeFiles/project7.dir/SortedLinkedList.cpp.o: CMakeFiles/project7.dir/flags.make
 CMakeFiles/project7.dir/SortedLinkedList.cpp.o: ../SortedLinkedList.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Nathan/CLionProjects/project7-WFUNathan18/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/project7.dir/SortedLinkedList.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Nathan/CLionProjects/project7-WFUNathan18/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/project7.dir/SortedLinkedList.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/project7.dir/SortedLinkedList.cpp.o -c /Users/Nathan/CLionProjects/project7-WFUNathan18/SortedLinkedList.cpp
 
 CMakeFiles/project7.dir/SortedLinkedList.cpp.i: cmake_force
@@ -125,6 +138,7 @@ CMakeFiles/project7.dir/SortedLinkedList.cpp.s: cmake_force
 # Object files for target project7
 project7_OBJECTS = \
 "CMakeFiles/project7.dir/main.cpp.o" \
+"CMakeFiles/project7.dir/LinkedList.cpp.o" \
 "CMakeFiles/project7.dir/Data.cpp.o" \
 "CMakeFiles/project7.dir/Stack.cpp.o" \
 "CMakeFiles/project7.dir/Queue.cpp.o" \
@@ -134,13 +148,14 @@ project7_OBJECTS = \
 project7_EXTERNAL_OBJECTS =
 
 project7: CMakeFiles/project7.dir/main.cpp.o
+project7: CMakeFiles/project7.dir/LinkedList.cpp.o
 project7: CMakeFiles/project7.dir/Data.cpp.o
 project7: CMakeFiles/project7.dir/Stack.cpp.o
 project7: CMakeFiles/project7.dir/Queue.cpp.o
 project7: CMakeFiles/project7.dir/SortedLinkedList.cpp.o
 project7: CMakeFiles/project7.dir/build.make
 project7: CMakeFiles/project7.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Nathan/CLionProjects/project7-WFUNathan18/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable project7"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Nathan/CLionProjects/project7-WFUNathan18/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable project7"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/project7.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

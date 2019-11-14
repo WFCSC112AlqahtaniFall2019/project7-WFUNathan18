@@ -10,7 +10,7 @@ class Stack : public LinkedList {
 public:
     Stack();
     void push_head(Data D);
-    bool stack_pop_head();
+    bool stack_pop_head(ostream& out);
 };
 
 #endif //PROJECT7_STACK_H

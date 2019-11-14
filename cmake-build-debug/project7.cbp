@@ -86,6 +86,12 @@
 		<Unit filename="/Users/Nathan/CLionProjects/project7-WFUNathan18/Data.h">
 			<Option target="project7"/>
 		</Unit>
+		<Unit filename="/Users/Nathan/CLionProjects/project7-WFUNathan18/LinkedList.cpp">
+			<Option target="project7"/>
+		</Unit>
+		<Unit filename="/Users/Nathan/CLionProjects/project7-WFUNathan18/LinkedList.h">
+			<Option target="project7"/>
+		</Unit>
 		<Unit filename="/Users/Nathan/CLionProjects/project7-WFUNathan18/Queue.cpp">
 			<Option target="project7"/>
 		</Unit>

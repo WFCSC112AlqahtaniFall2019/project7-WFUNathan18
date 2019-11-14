@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/Nathan/CLionProjects/project7-WFUNathan18/Data.cpp" "/Users/Nathan/CLionProjects/project7-WFUNathan18/cmake-build-debug/CMakeFiles/project7.dir/Data.cpp.o"
+  "/Users/Nathan/CLionProjects/project7-WFUNathan18/LinkedList.cpp" "/Users/Nathan/CLionProjects/project7-WFUNathan18/cmake-build-debug/CMakeFiles/project7.dir/LinkedList.cpp.o"
   "/Users/Nathan/CLionProjects/project7-WFUNathan18/Queue.cpp" "/Users/Nathan/CLionProjects/project7-WFUNathan18/cmake-build-debug/CMakeFiles/project7.dir/Queue.cpp.o"
   "/Users/Nathan/CLionProjects/project7-WFUNathan18/SortedLinkedList.cpp" "/Users/Nathan/CLionProjects/project7-WFUNathan18/cmake-build-debug/CMakeFiles/project7.dir/SortedLinkedList.cpp.o"
   "/Users/Nathan/CLionProjects/project7-WFUNathan18/Stack.cpp" "/Users/Nathan/CLionProjects/project7-WFUNathan18/cmake-build-debug/CMakeFiles/project7.dir/Stack.cpp.o"
