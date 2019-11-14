@@ -1,0 +1,7 @@
+The data set (top2018.csv) is a list of the 100 top rated songs
+on Spotify, containing a wide range of attributes such as if the song is major
+or minor, or the approximate tempo of the song in beats per minute. I chose this particular
+data set because 1.) I really like studying about music/music theory and 2.) I've noticed
+a lot of college students like to play their favorite songs loud enough for the whole campus
+to hear it. By sorting the list based on song loudness, I could see how many songs out of the 100
+are usually played loudly.

@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Nathan/CLionProjects/project7-WFUNathan18/Data.h
+iostream
+-
+fstream
+-
+
+/Users/Nathan/CLionProjects/project7-WFUNathan18/LinkedList.h
+Data.h
+/Users/Nathan/CLionProjects/project7-WFUNathan18/Data.h
+
+/Users/Nathan/CLionProjects/project7-WFUNathan18/Queue.h
+LinkedList.h
+/Users/Nathan/CLionProjects/project7-WFUNathan18/LinkedList.h
+
+/Users/Nathan/CLionProjects/project7-WFUNathan18/SortedLinkedList.h
+LinkedList.h
+/Users/Nathan/CLionProjects/project7-WFUNathan18/LinkedList.h
+
+/Users/Nathan/CLionProjects/project7-WFUNathan18/Stack.h
+LinkedList.h
+/Users/Nathan/CLionProjects/project7-WFUNathan18/LinkedList.h
+
+/Users/Nathan/CLionProjects/project7-WFUNathan18/main.cpp
+iostream
+-
+fstream
+-
+LinkedList.h
+/Users/Nathan/CLionProjects/project7-WFUNathan18/LinkedList.h
+Stack.h
+/Users/Nathan/CLionProjects/project7-WFUNathan18/Stack.h
+Queue.h
+/Users/Nathan/CLionProjects/project7-WFUNathan18/Queue.h
+SortedLinkedList.h
+/Users/Nathan/CLionProjects/project7-WFUNathan18/SortedLinkedList.h
+

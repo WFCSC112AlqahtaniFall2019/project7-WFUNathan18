@@ -1,3 +1,8 @@
+// Author: Nathan Maynard
+// Course: CSC 112 Section B (Fall 2019)
+// Project: Project 7
+// Due Date: 3:30pm, Nov 14, 2019
+
 #include <iostream>
 #include <fstream>
 #include "LinkedList.h"
